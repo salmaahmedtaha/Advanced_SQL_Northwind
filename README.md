@@ -1,5 +1,3 @@
-# Advanced_SQL_Northwind
-
 # Advanced SQL Analysis - Northwind Database
 
 ## Project Overview
